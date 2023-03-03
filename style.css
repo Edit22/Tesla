@@ -1,0 +1,15 @@
+/*
+
+Header HTML
+Header CSS
+Sections/slides
+Side-navigation
+Scroll snapping
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
